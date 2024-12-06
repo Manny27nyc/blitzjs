@@ -30,8 +30,8 @@
     "@prisma/cli": "latest",
     "@prisma/client": "^3.0.2",
     "blitz": "latest",
-    "react": "experimental",
-    "react-dom": "experimental"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/react": "17.0.29",
